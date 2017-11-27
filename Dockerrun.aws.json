@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "luyaosuperman/nodejs_ws",
+    "Name": "luyaosuperman/docker-nodejs-ws:0.0.2",
     "Update": "true"
   },
   "Ports": [
